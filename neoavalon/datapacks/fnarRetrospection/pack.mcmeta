@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Grants a player a level upon sleep if they have survived an entire day",
+    "pack_format": 1
+  }
+}

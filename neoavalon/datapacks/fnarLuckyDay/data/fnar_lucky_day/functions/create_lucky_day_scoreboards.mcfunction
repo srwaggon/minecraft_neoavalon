@@ -1,0 +1,3 @@
+scoreboard objectives add fnarLuckyDayRest minecraft.custom:minecraft.sleep_in_bed
+scoreboard objectives add fnarLuckyDayFood food
+scoreboard objectives add fnarLuckyDayHp health

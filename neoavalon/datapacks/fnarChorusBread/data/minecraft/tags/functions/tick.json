@@ -1,0 +1,6 @@
+{
+  "values":[
+    "fnar_chorus_bread:effect/detect_and_apply",
+    "fnar_chorus_bread:recipe/detect_ingredients"
+  ]
+}

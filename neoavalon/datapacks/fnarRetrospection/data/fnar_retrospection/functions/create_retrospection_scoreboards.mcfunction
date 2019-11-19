@@ -1,0 +1,2 @@
+scoreboard objectives add fnarRetroLife minecraft.custom:minecraft.time_since_death
+scoreboard objectives add fnarRetroSleep minecraft.custom:minecraft.sleep_in_bed

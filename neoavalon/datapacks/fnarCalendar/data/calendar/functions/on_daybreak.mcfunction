@@ -1,0 +1,3 @@
+function calendar:if_first_of_year
+function calendar:if_first_of_month
+function calendar:announce_day
